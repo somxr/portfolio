@@ -5,6 +5,11 @@
 	border: 2px dashed white;
 } */
 
+#main-container {
+	max-width: 1250px;
+	margin: 0 auto;
+}
+
 #filter-grid {
 	overflow-x: hidden;
 }
