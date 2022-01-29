@@ -81,7 +81,7 @@ for (let j = 0; j < Math.ceil(filterList.length / 4); j++) {
 		video.loop = true;
 		video.muted = true;
 		video.autoplay = true;
-		video.setAttribute('playsinline', 'playsinline');
+		video.playsInline = true;
 
 		let source = document.createElement('source');
 		source.type = 'video/mp4';
