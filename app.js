@@ -54,7 +54,7 @@ let filterList = [
 
 const filterGrid = document.querySelector('#filter-grid');
 
-let rowClasses = 'row px-lg-5 mx-lg-5 mx-1 my-1 g-5'.split(' ');
+let rowClasses = 'row px-lg-5 mx-lg-5 mx-1 my-1 g-4'.split(' ');
 
 for (let j = 0; j < Math.ceil(filterList.length / 4); j++) {
 	let row = document.createElement('div');
