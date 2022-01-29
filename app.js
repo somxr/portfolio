@@ -13,7 +13,7 @@ let filterList = [
 	{
 		name: 'SYLO',
 		url: 'https://www.instagram.com/ar/649743079282293/',
-		fileName: 'SYLO.mp4'
+		fileName: 'SYLO.mov'
 	},
 	{
 		name: 'Reciprocity Failure',
@@ -23,17 +23,17 @@ let filterList = [
 	{
 		name: 'Solace',
 		url: 'https://www.instagram.com/ar/1261384794232541/',
-		fileName: 'solace.mp4'
+		fileName: 'solace.mov'
 	},
 	{
 		name: 'liquid_pom',
 		url: 'https://www.instagram.com/ar/222352282915994/',
-		fileName: 'liquid_pom.mp4'
+		fileName: 'liquid_pom.mov'
 	},
 	{
 		name: 'COLOR RUSH',
 		url: 'https://www.instagram.com/ar/413176230066093/',
-		fileName: 'COLOR_RUSH.mp4'
+		fileName: 'COLOR_RUSH.mov'
 	},
 	{
 		name: 'Hysteresis',
@@ -43,7 +43,7 @@ let filterList = [
 	{
 		name: 'CCTV',
 		url: 'https://www.instagram.com/ar/996915064380821/',
-		fileName: 'CCTV.mp4'
+		fileName: 'CCTV.mov'
 	},
 	{
 		name: 'Flawed Cosmetics',
