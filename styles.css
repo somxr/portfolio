@@ -5,7 +5,7 @@
 	border: 2px dashed white;
 } */
 
-#main-container {
+.main-container {
 	max-width: 1350px !important;
 	margin: 0 auto;
 }
