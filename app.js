@@ -9,6 +9,10 @@
 // 	'flawed cosmetics.mov'
 // ];
 
+if (document.URL.indexOf('#unity-games') >= 0) {
+	document.getElementById('pills-profile-tab').click();
+}
+
 let filterList = [
 	{
 		name: 'SYLO',
@@ -85,7 +89,7 @@ for (let j = 0; j < Math.ceil(filterList.length / 4); j++) {
 
 		let source = document.createElement('source');
 		source.type = 'video/mp4';
-		source.src = `filters/${filterList[i + 4 * j]['fileName']}`;
+		source.src = `assets/${filterList[i + 4 * j]['fileName']}`;
 
 		video.append(source);
 
