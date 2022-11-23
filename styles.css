@@ -5,6 +5,18 @@
 	border: 2px dashed white;
 } */
 
+.cropped {
+	width: 95%;
+	height: 63%;
+	object-fit: cover;
+	overflow: hidden;
+	/* margin: 0px 0px 0px 0px; */
+}
+
+.analytics-col {
+	margin: 0px 0px -10% 0px;
+}
+
 .main-container {
 	max-width: 1350px !important;
 	margin: 0 auto;
