@@ -20,9 +20,19 @@ let filterList = [
 		fileName: 'SYLO.mp4'
 	},
 	{
+		name: 'Flawed Cosmetics',
+		url: 'https://www.instagram.com/ar/608593183451706/',
+		fileName: 'flawed_cosmetics.mp4'
+	},
+	{
 		name: 'Reciprocity Failure',
 		url: 'https://www.instagram.com/ar/305474007959114/',
 		fileName: 'reciprocity_failure.mp4'
+	},
+	{
+		name: 'The Batman',
+		url: 'https://www.instagram.com/ar/644587796769297/',
+		fileName: 'batman.mp4'
 	},
 	{
 		name: 'Solace',
@@ -30,14 +40,9 @@ let filterList = [
 		fileName: 'solace.mp4'
 	},
 	{
-		name: 'liquid_pom',
-		url: 'https://www.instagram.com/ar/222352282915994/',
-		fileName: 'liquid_pom.mp4'
-	},
-	{
-		name: 'COLOR RUSH',
-		url: 'https://www.instagram.com/ar/413176230066093/',
-		fileName: 'COLOR_RUSH.mp4'
+		name: 'CCTV',
+		url: 'https://www.instagram.com/ar/996915064380821/',
+		fileName: 'CCTV.mp4'
 	},
 	{
 		name: 'Hysteresis',
@@ -45,14 +50,9 @@ let filterList = [
 		fileName: 'hysteresis.mp4'
 	},
 	{
-		name: 'CCTV',
-		url: 'https://www.instagram.com/ar/996915064380821/',
-		fileName: 'CCTV.mp4'
-	},
-	{
-		name: 'Flawed Cosmetics',
-		url: 'https://www.instagram.com/ar/608593183451706/',
-		fileName: 'flawed_cosmetics.mp4'
+		name: 'liquid_pom',
+		url: 'https://www.instagram.com/ar/222352282915994/',
+		fileName: 'liquid_pom.mp4'
 	}
 ];
 
