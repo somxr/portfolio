@@ -30,9 +30,9 @@ let filterList = [
 		fileName: 'reciprocity_failure.mp4'
 	},
 	{
-		name: 'PlayStation',
-		url: 'https://www.instagram.com/ar/4131627260300440/',
-		fileName: 'playstation.mp4'
+		name: 'No Tears',
+		url: 'https://www.instagram.com/ar/386806210160693/',
+		fileName: 'no_tears.mp4'
 	},
 	{
 		name: 'Solace',
@@ -45,9 +45,9 @@ let filterList = [
 		fileName: 'CCTV.mp4'
 	},
 	{
-		name: 'Color Rush',
-		url: 'https://www.instagram.com/ar/413176230066093/',
-		fileName: 'COLOR_RUSH.mp4'
+		name: 'PlayStation',
+		url: 'https://www.instagram.com/ar/4131627260300440/',
+		fileName: 'playstation.mp4'
 	},
 	{
 		name: 'liquid_pom',
