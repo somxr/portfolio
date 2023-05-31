@@ -92,3 +92,12 @@ button {
 	color: white;
 	z-index: 2;
 }
+#pills-profile-tab{
+	border: outset  !important;
+	border-color: white !important;
+}
+
+#pills-home-tab{
+	border: solid  !important;
+	border-color: white !important;
+}
