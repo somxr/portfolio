@@ -56,6 +56,12 @@ button {
 	max-width: 350px;
 }
 
+.dashboard-img {
+	width: 100%;
+    max-width: 350px;
+    height: auto;
+}
+
 .game-vid {
 	max-width: 1080px;
 }
